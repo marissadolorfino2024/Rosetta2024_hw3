@@ -1,11 +1,24 @@
 # HW3
 
 ## Objectives for this assignment:
+* Get started with VSCode and request access to summer institution VPN and HPC
 * Write a Python program to satisfy a set of requirements in three separate problems
 * Turn in homework assignment
 
 This assignment attempts to build on the skills you learned in the previous assignment. There are three Python challenges for you to complete. Each requires you to implement code from scratch (looking up built-in functions and syntax is always encouraged).
 
+## Tasks to complete
+
+Please download VScode onto your personal computer. Make sure you know how to open a terminal on vscode, and that you have python and pip installed (instructions for installing python and pip can be found online).
+
+* [ ] Upload a screenshot of the terminal in your VSCode
+* [ ] Upload a screenshot of the results from running 'pip install numpy'
+* [ ] Upload a screenshot of the results in your terminal when you type python and hit enter
+* [ ] Contact your research mentor / PI and request access to the university VPN and to the high performance computing cluster (HPC) that you will be using for your research this summer. In the next homework, we will check that you have gained access to these resources, as they will be important for the codeschool.
+
+* [ ] Upload a screenshot of the terminal in your VSCode
+* [ ] Upload a screenshot of the results from running 'pip install numpy'
+* [ ] Upload a screenshot of the results in your terminal when you type python and hit enter
 
 ## Problem 1, 2, and 3
 

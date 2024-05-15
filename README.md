@@ -16,10 +16,6 @@ Please download VScode onto your personal computer. Make sure you know how to op
 * [ ] Upload a screenshot of the results in your terminal when you type python and hit enter
 * [ ] Contact your research mentor / PI and request access to the university VPN and to the high performance computing cluster (HPC) that you will be using for your research this summer. In the next homework, we will check that you have gained access to these resources, as they will be important for the codeschool.
 
-* [ ] Upload a screenshot of the terminal in your VSCode
-* [ ] Upload a screenshot of the results from running 'pip install numpy'
-* [ ] Upload a screenshot of the results in your terminal when you type python and hit enter
-
 ## Problem 1, 2, and 3
 
 You will complete these three coding challenges in the same notebook called homework3.ipynb. This notebook has a set of instructions for you to follow.
